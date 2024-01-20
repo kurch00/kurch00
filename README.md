@@ -11,6 +11,8 @@
 
 ![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=kurch00&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurch00&hide_progress=true)
+
 ## Most used Technologies
 
 <div style="display: inline_block"><br/>
