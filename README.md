@@ -36,13 +36,14 @@
 * At university we focus on Java. 
 * I love technology, learning and changing people's lives through programming.
 
-
+<br>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=az1fm10e3w31uhx0eio51k9wk&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -51,4 +52,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
