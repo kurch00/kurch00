@@ -39,6 +39,9 @@
   <img align= "center" alt="python" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img align= "center" alt="python" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
+<!--
+  COLOCAR LINGUAGENS E MAIS ALGUNS FRONT-END: TAILWINDCSS, ETC. ANGULAR
+-->
 
 </div><br/>
 
